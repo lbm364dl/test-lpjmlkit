@@ -115,7 +115,7 @@ https://support.microsoft.com/en-us/windows/enable-virtualization-on-windows-c55
     ```
     You can now just do `renv::restore()` and you should be ready. If you
     don't know about using `renv` you can check
-    [my guide](https://eduaguilera.github.io/WHEP/articles/workflow-intro.html#virtual-environments-with-renv).
+    [my guide](https://lbm364dl.github.io/follow-the-workflow/renv.html).
 
 6. The code to run the model using the `lpjmlkit` package and get an idea of
     how to configure it further to your needs is found in `lpjmlkit.R`. It
